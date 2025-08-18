@@ -1,6 +1,6 @@
 # Next.js + Typescript
 
-### 1-1. TypeScript 기본 문법
+### 1-1. TypeScript 기본 문법 ✅
 
 - 타입 선언 (`string`, `number`, `boolean`, `any`, `unknown`)
 - 인터페이스(`interface`) & 타입(`type`)
@@ -8,7 +8,7 @@
 - 클래스, 상속, 접근제어자(`public`,`private`,`protected`)
 - 유틸리티 타입 (`Partial`, `Pick`, `Omit`, `Readonly`)
 
-### 1-2. React 기본기
+### 1-2. React 기본기 ✅
 
 - 컴포넌트, Props, State
 - Hooks(`useState`,`useEffect`,`useRef`,`useContext`)
@@ -16,7 +16,7 @@
 
 ---
 
-## 2. 개발 환경 세팅
+## 2. 개발 환경 세팅 ✅
 
 1.  **Node.JS 설치**(v18 이상)
 2.  **프로젝트 생성**
