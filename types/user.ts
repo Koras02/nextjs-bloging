@@ -42,3 +42,10 @@ export type OmitTodo = Omit<Todo, "completed">;
 
 // ReadOnly: 모든 속성을 읽기 전용 모드로
 export type ReadonlyTodo = Readonly<Todo>;
+
+// types/user.ts
+export interface User {
+  id: number;
+  name: string;
+  email: string;
+}
